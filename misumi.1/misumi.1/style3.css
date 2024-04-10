@@ -1,0 +1,38 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.top{
+    background-color: #ffc993;
+    height: 90px;
+}
+
+.top h1{
+    text-align: center;
+    font-family: "Zen Kaku Gothic New", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    padding: 20px 0px;
+    color: #636363;
+}
+
+.map{
+    background-color: #ffdbb7;
+}
+
+.time{
+    background-color: #ffc993;
+}
+
+.time h2{
+    text-align: center;
+    background: linear-gradient(transparent 50% , red 100%);
+}
+
+.time p{
+    text-align: center;
+    font-size: 20px;
+}
+
+

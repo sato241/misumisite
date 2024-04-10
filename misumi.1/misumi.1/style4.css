@@ -1,0 +1,35 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.top{
+    background-color: #ffc993;
+    height: 90px;
+}
+
+.top h1{
+    text-align: center;
+    font-family: "Zen Kaku Gothic New", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    padding: 20px 0px;
+    color: #636363;
+}
+
+.main{
+    background-color: #ffdbb7;
+}
+    
+.main p{
+    font-size: 50px;
+    margin: 90px auto;
+    text-decoration:underline solid red;
+}
+    
+
+
+.lien{
+    height: 300px;;
+    width: 300px;
+}
