@@ -1,0 +1,79 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.top{
+    background-color: #ffc993;
+    height: 90px;
+    
+    
+}
+
+.main{
+    background-color: #ffffbc;
+}
+
+.main-card{
+    background-color: #ffffff;
+    margin: 0px 70px;
+}
+
+.main h3{
+    background: linear-gradient(transparent 20% , #ff8484 70%);
+}
+
+.main p{
+    font-size: 30px;
+    margin:10px;
+}
+
+
+.top h1{
+    text-align: center;
+    font-family: "Zen Kaku Gothic New", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    padding: 20px 0px;
+    color: #636363;
+
+}
+
+footer{
+    background-color: #ffead6;
+    padding: 10px;
+}
+
+
+
+footer li{
+    font-family: "Zen Kaku Gothic New", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 30px;
+}
+
+footer a{
+    font-family: "Zen Kaku Gothic New", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 30px;
+    color: black;
+}
+
+footer p{
+    font-family: "Zen Kaku Gothic New", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 15px;
+    text-decoration: none;
+    color: black;
+    text-align: center;
+}
+
+
+.tahei{
+    height:350px;
+}
+
+
